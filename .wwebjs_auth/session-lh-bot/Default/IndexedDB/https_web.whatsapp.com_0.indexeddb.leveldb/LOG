@@ -1,0 +1,9 @@
+2023/02/22-22:46:19.647 658c Creating DB /home/lucas/Projects/crm-whatsapp/.wwebjs_auth/session-lh-bot/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/02/22-22:46:19.889 658c Reusing MANIFEST /home/lucas/Projects/crm-whatsapp/.wwebjs_auth/session-lh-bot/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/22-22:46:20.476 6551 Level-0 table #5: started
+2023/02/22-22:46:20.585 6551 Level-0 table #5: 7189 bytes OK
+2023/02/22-22:46:20.718 6551 Delete type=0 #3
+2023/02/22-22:46:20.729 6551 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/22-22:47:26.674 65e1 Level-0 table #7: started
+2023/02/22-22:47:26.857 65e1 Level-0 table #7: 1049579 bytes OK
+2023/02/22-22:47:26.930 65e1 Delete type=0 #4
